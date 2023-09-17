@@ -1,0 +1,6 @@
+{"prompt": "What is the purpose of a position paper?", "completion": "A position paper is a summary of your country’s policies and stance related to your committee’s issue. A well -written position
+Developed by TalkMaze Inc. All rights reserved. Do not copy or reproduce without written permission  
+Introduction: How to Use this Document  ................................ ................................ ............................  3 
+• Welcome to TalkMaze
+{"prompt": "How to Use this Document", "completion": "This document is a guide for teaching a group class."}
+{"prompt": "TalkMaze's courses operate in three distinct tiers", "completion

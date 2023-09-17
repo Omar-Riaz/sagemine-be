@@ -1,0 +1,4 @@
+Use the below information to create a mermaid script of the subsequent process. When answering, only provide the mermaid script and nothing else in the output
+Information: {}
+Process: {}
+

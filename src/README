@@ -1,0 +1,2 @@
+Important notes:
+# view_func is the function that will be called when the route is matched. This project uses this function as a way to invoke services. While this behavior is shared, there may be unexpected effects with making this assumption. TO mitigate in the future, look for a better way to orchestrate controller to service interaction
